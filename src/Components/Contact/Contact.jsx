@@ -150,7 +150,7 @@ setMessage("")
             <img src={phone_icon} alt=""></img>+91 9079918467
           </li>
           <li>
-            <img src={location_icon} alt=""></img>Address xyz
+            <img src={location_icon} alt=""></img>Address Noida 62
           </li>
         </ul>
       </div>
