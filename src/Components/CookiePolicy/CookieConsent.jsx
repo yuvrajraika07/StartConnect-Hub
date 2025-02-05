@@ -19,7 +19,7 @@ const CookieConsent = () => {
                 <button className="close-button" onClick={handleClose}>
                     &times;
                 </button>
-                <p>At StartConnect Hub, we use cookies to provide you with a better user experience, including personalized content and advertisements.</p>
+                <p>At StartConnect Hub, we use cookies to provide yopushu with a better user experience, including personalized content and advertisements.</p>
                 <div className="cookie-consent-buttons">
                     <Link to="/privacypolicy" className="learn-more">
                         Learn more
